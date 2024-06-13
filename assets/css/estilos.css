@@ -41,3 +41,8 @@ body {
 .btn-outline-dark:hover{
   border: 1px solid white;
 }
+
+.bg-gris{
+  background-color: #545657;
+  border-radius: 10px;
+}
